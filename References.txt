@@ -1,0 +1,18 @@
+References:
+
+1. http://www.binarytides.com/multiple-socket-connections-fdset-select-linux/ (Multiple Connections)
+
+2. http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html#select (Socket Programming)
+
+3. http://www.linuxhowtos.org/C_C++/socket.htm (Socket Tutorials)
+
+4. http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
+
+5. Stack Overflow
+
+6. http://www.tutorialspoint.com/unix_sockets/
+
+7. http://www.thegeekstuff.com/2011/12/c-socket-programming/
+
+Fellow Students:
+Kunal Kapoor and Prakhar Malhotra for testing the code. (Test cases and basic functionality of Hot Potato)
